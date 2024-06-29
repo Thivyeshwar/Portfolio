@@ -165,7 +165,7 @@ header{
             color:var(--blue-800);
         }
     }
-    &.bleack{
+    &.black{
         background-color: black;
         color:white;
         &:hover{
